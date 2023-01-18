@@ -58,8 +58,8 @@ Dive into complex data and translate them into value-adding insights and convinc
 * API
 
 # Contact
-![Email]: (HadiNazari920804@gmail.com)
-Linkedin: www.linkedin.com/in/hadi-nazari-755ba1a3/
+* Email : HadiNazari920804@gmail.com
+* [Linkedin](www.linkedin.com/in/hadi-nazari-755ba1a3/)
 
 
 
