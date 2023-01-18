@@ -1,10 +1,10 @@
-# Hadi Nazari
+# 🤔 About me?
 Specialist in leading and developing data science projects and teams, with several years of experience in the area of Machine Learning, Deep Learning, Data Visualization. My main goal is to support people and organizations to take the best decisions based on facts
 
-# What I Do?
+# 🔭 What I Do?
 Dive into complex data and translate them into value-adding insights and convincing stories which could aid objective decision making on both tactical and strategic level
 
-# Skills
+# 👯 Skills
 - Programming:
   - Python	
   - R & RStudio	
@@ -44,11 +44,11 @@ Dive into complex data and translate them into value-adding insights and convinc
   - Power BI
 
 
-# LANGUAGES
+# 🌱 LANGUAGES
 * English
 * Persian
 
-# INTEREST
+# ⚡ INTEREST
 * Machine Learning	
 * Neural Network	
 * Problem Solving	
@@ -57,7 +57,7 @@ Dive into complex data and translate them into value-adding insights and convinc
 * Big Data	
 * API
 
-# Contact
+# 💬 Contact
 * Email : HadiNazari920804@gmail.com
 * [Linkedin](www.linkedin.com/in/hadi-nazari-755ba1a3/)
 
