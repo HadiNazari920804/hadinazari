@@ -1,5 +1,5 @@
 # 🤔 About me?
-Specialist in leading and developing data science projects and teams, with several years of experience in the area of Machine Learning, Deep Learning, Data Visualization. My main goal is to support people and organizations to take the best decisions based on facts
+Results-oriented Business Analyst Manager with a strong background in data science, machine learning, and data visualization. Adept at leveraging data-driven insights to inform strategic decision-making. Proven track record of enhancing operational efficiency, increasing revenue, and optimizing customer experiences through actionable analytics
 
 # 🔭 What I Do?
 Dive into complex data and translate them into value-adding insights and convincing stories which could aid objective decision making on both tactical and strategic level
@@ -8,16 +8,12 @@ Dive into complex data and translate them into value-adding insights and convinc
 - Programming:
   - Python	
   - R & RStudio	
-  - HTML, CSS
+  - SQL
  
-- Advanced Analytics::
+- Advanced Analytics:
   - Keras
   - Tensorflow
-  - PySpark
 
-- Big Data:
-  - SQL Server
-  - PySpark
 
 - Python Libraries:
   - Numpy	
@@ -27,7 +23,7 @@ Dive into complex data and translate them into value-adding insights and convinc
   - SciPy
  
 - IDE:
-   - PyCharm
+  - PyCharm
   - Spyder
   - Jupyter notebook
  
@@ -47,6 +43,7 @@ Dive into complex data and translate them into value-adding insights and convinc
 # 🌱 LANGUAGES
 * English
 * Persian
+* German
 
 # ⚡ INTEREST
 * Machine Learning	
